@@ -1,10 +1,3 @@
 # test-conflict
 
-copy
-
-copy
-
-paste
-
-paste
-paste
+checking logs on org staging
